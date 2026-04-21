@@ -70,7 +70,9 @@ A API possui integração com Swagger para facilitar os testes dos endpoints. Ap
 No console do Worker:
 
 📨 Email recebido:
+
 {"to":"teste@email.com","subject":"Oi","body":"Teste fila"}
+
 ✅ Email processado!
 
 📚 Conceitos abordados
