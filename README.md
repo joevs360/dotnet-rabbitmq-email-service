@@ -75,19 +75,23 @@ No console do Worker:
 
 ✅ Email processado!
 
+
 📚 Conceitos abordados
+
 Mensageria assíncrona
 Padrão Producer/Consumer
 Filas (Queue)
 Desacoplamento entre serviços
 Processamento assíncrono
+
 🔥 Possíveis melhorias
+
 Implementar ACK manual
 Adicionar retry em caso de falha
 Criar Dead Letter Queue
 Configuração via appsettings.json
 Reutilização de conexão com RabbitMQ
 Logs estruturados
-💡 Objetivo
 
+💡 Objetivo
 Este projeto foi desenvolvido com o objetivo de aprender e praticar conceitos de mensageria utilizando RabbitMQ em aplicações .NET, simulando um cenário comum de processamento assíncrono.
